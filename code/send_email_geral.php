@@ -813,7 +813,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -864,7 +864,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -929,7 +929,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -996,7 +996,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -1062,7 +1062,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -1128,7 +1128,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -1194,7 +1194,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
@@ -1261,7 +1261,7 @@ class Mail{
       $mail->Body    ='Produto reportado com sucesso - '.$messagem;
       $mail->send();
 
-      $mail->addAddress("31179@ufp.edu.pt",$nome);
+      $mail->addAddress("",$nome);
       $mail->setFrom('labproaulas@gmail.com','Produto pedido de indix');
       $mail->isHTML(true);                                  // Set email format to HTML
       $mail->Subject = 'Produto reportado por: '.$user_mail;
