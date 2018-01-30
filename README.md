@@ -1,9 +1,9 @@
 # store-product_agregator
 
 An api that allows you to create stores and products for that same stores. And you can users to view and add to a whishlist.
-Also allows for external api use with mongoDB for saving the response.
+Also allows for external api use with mongoDB for saving the response. I used indixAPI for this project so credit to them !!
 
-#Funcionality
+# Funcionality
 
 -The stores can create them selfs , and products, edit products and delete them.  
 -The products can be searched and displayed for the user to see and compare.  
@@ -14,3 +14,7 @@ Also allows for external api use with mongoDB for saving the response.
   
   
 This project was made by me and a colleage !  
+Sorry for portuguese documentation !!  
+
+
+FUN PROJECT !!
