@@ -1,6 +1,6 @@
 # store-product_agregator
 
-An api (made in SILEX FRAMEWORK) that allows you to create stores and products for that same stores. And you can users to view and add to a whishlist.
+An api (made in SILEX FRAMEWORK) that allows you to create stores and products for that same stores. And you can users to view and add to a whishlist, this is saved in MYSQL database.
 Also allows for external api use with mongoDB for saving the response. I used indixAPI for this project so credit to them !!
 
 # Funcionality
